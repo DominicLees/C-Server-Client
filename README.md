@@ -1,0 +1,1 @@
+A simple TCP server programed in C, that can handle multiple connections and tracks how many clients are connected. 
